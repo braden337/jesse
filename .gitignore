@@ -1,0 +1,6 @@
+.DS_Store
+node_modules
+img/*.jpg
+img/*.png
+style.css
+style.css.map

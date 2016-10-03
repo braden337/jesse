@@ -1,0 +1,13 @@
+#header-bg {
+  background-size: cover;
+}
+
+@media (min-width: 768px) {
+  .navbar-nav li a {
+    line-height: 50px;
+  }
+}
+
+.current-menu-item {
+  @extend .active;
+}
